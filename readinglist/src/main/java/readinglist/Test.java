@@ -13,11 +13,6 @@ import com.fasterxml.jackson.databind.util.LinkedNode;
 public class Test {
 
 	public static void main(String[] args) {
-		// new HashMap<K, V>()
-		// new Hashtable<K, V>()
-		// new Thread()
-		// LinkedNode<T>
-		// LinkedList<E>
 		bubbleSort(new int[]{5,7,3,1,9,6,23,10});
 	}
 	
